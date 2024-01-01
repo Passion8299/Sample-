@@ -1,4 +1,4 @@
 # Sample-
-This is the GitHub repository 
-<brt>
+This is the GitHub repository.
+<Br>
 Author - Deepak Naik 
